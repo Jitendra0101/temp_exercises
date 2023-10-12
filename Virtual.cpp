@@ -63,6 +63,9 @@ int main()
     cout << endl << "details of obj of Vehicle class: " << endl;
     v1.printDetails();
 
+    // Bike b;
+    // b.printDetails();
+    
     Bike b1("Apache", 180, 2);
     cout << endl << "details of obj of Bike class class (without pointer): " << endl;
     b1.printDetails();
